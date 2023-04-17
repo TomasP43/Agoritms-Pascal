@@ -21,7 +21,6 @@ begin
         end;
       nombres[j + 1] := temp;
     end;
-
   for i := 1 to 5 do
     writeln(nombres[i]);
 end.
